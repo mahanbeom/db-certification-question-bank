@@ -11,7 +11,7 @@ const notoSansKr = Noto_Sans_KR({
 
 export const metadata: Metadata = {
   title: 'DB 자격증 문제집',
-  description: "Next.js App Router 기반의 관리자 UI 예제입니다.",
+  description: "db 자격증 공부를 위한 문제를 제공하는 서비스입니다.",
 };
 
 
